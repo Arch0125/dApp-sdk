@@ -17,6 +17,7 @@
     "packages/core/messaging/*",
     "packages/core/analytics/*",
     "packages/core/finance/*",
-    "packages/core/identity/*"
+    "packages/core/identity/*",
+    "packages/core/notification/*"
   ]
 }
